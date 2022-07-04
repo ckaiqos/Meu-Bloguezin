@@ -1,0 +1,120 @@
+body {
+    background: #111111
+}
+
+
+#first{
+    font-family: ;
+    text-decoration: none;
+    /*  position: relative;
+        top: 40px */
+
+}
+
+
+#first, #second, #third{
+        color: #6495ED;
+        font-style: normal
+}
+
+
+#third{
+    font-style: oblique;
+    font-weight: bold;
+    position: relative;
+    bottom: 12px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+#fourth, #fifth, #sixth, #last{
+    color: #6495ED;
+}
+
+
+#fourth{
+    position: relative;
+    bottom: 15px;
+    margin: 20px 0px 0px 0px;
+}
+
+
+#fifth{
+    font-style: oblique;
+    position: relative;
+    bottom: 12px;
+    margin: 0px 0px 0px 0px;
+    margin: 0px;
+
+}
+
+/* #sixth{
+    text-transform: capitalize;
+}                            */
+
+
+#post1{                        /*post1*/
+    background: #123;
+    /* background-image: url("sussy_little_guy.png"); */
+    padding: 20px 15px 8px;
+    border: 3px solid #010A07;
+   /* border-right: 3px solid #040057;
+    border-left: 3px solid #040057; */
+    margin: 30px 0px 30px 5px;
+}
+
+
+#post2{
+    background: #123;
+    /* background-image: url("sussy_little_guy.png"); */
+    padding: 20px 15px 8px;
+    border: 3px solid #010A07;
+   /* border-right: 3px solid #040057;
+    border-left: 3px solid #040057; */
+    margin: 0px 0px 0px 0px;
+}
+
+
+#last{
+    margin: 280px 0px 0px 0px;
+}
+
+
+/* ul{
+    list-style-type: "\1F44D";
+}                         */
+
+
+.href{
+    color: #6495ED;
+}
+
+
+/* #Alulinha{
+    border-radius: 50%;
+    border: 3px solid #010A07
+    position: relative;
+    bottom: 50px;
+    left: 300px;
+
+}
+                   */
+
+
+a, a:link, a:visited, a:focus, a:hover, a:active{
+  color:#6495ED;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*          #5ABCF0       */
